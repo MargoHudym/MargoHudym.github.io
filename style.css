@@ -1,5 +1,7 @@
 h1{
-	text-color:DarkRed;
+	color:darkred;
 	text-align:center;
   }
  body{background-color:#FFFACD;}
+ dt{color:darkred;}
+ dd{color:darkred;}
