@@ -5,7 +5,7 @@ h1{
   }
  body{background-color:#FFFACD;}
  dt,dd,th,td,p,li{color:darkred;}
-table{border: 1px;
+table{border: 4px;
 	display: table;
     margin-left: auto;
     margin-right: auto;}
