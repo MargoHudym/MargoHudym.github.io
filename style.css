@@ -5,4 +5,7 @@ h1{
   }
  body{background-color:#FFFACD;}
  dt,dd,th,td,p,li{color:darkred;}
+table{border="1";
+	width="50%";
+	align="center"}
 
