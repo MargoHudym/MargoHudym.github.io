@@ -4,9 +4,5 @@ h1{
 	font-face:timesroman;
   }
  body{background-color:#FFFACD;}
- dt{color:darkred;}
- dd{color:darkred;}
-th{color:darkred;}
-td{color:darkred;}
-p{color:darkred;}
-li{color:darkred;}
+ dt,dd,th,td,p,li{color:darkred;}
+
