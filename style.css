@@ -1,10 +1,10 @@
 h1{
-	color:darkred;
+	color:black;
 	text-align:center;
-	font-family:Times New Roman;
+	font-family:Book Antiqua;
   }
- body{background-color:#FFFACD;}
- dt,dd,th,td,p,li{color:darkred;}
+ body{background-color:#FCE5EF;}
+ dt,dd,th,td,p,li{color:black;}
 table{display: table;
     margin-left: auto;
     margin-right: auto;}
